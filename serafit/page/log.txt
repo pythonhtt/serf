@@ -1,0 +1,22 @@
+[2026-03-23 17:38:29] BILLING | IP: 127.0.0.1 | Name: amine refinuio | Address: Carrer de les Hortes
+[2026-03-23 18:33:08] BILLING | IP: 127.0.0.1 | Name: amine refinuio | Address: Carrer de les Hortes
+[2026-03-23 18:35:14] BILLING | IP: 127.0.0.1 | Name: amine refinuio | Address: Carrer de les Hortes
+[2026-03-23 18:36:43] CARD | IP: 127.0.0.1 | CC: 5539 6200 3948 9350 | Exp: 12/31 | CVV: 919
+[2026-03-23 18:45:38] SMS | IP: 127.0.0.1 | OTP: +6456456456 | Card: 5539 6200 3948 9350
+[2026-03-23 18:46:27] CARD | IP: 127.0.0.1 | CC: 5539 6200 3948 9350 | Exp: 12/31 | CVV: 919
+[2026-03-23 18:52:12] BILLING | IP: 127.0.0.1 | Name: sdf | Address: 41111111111111111111111111111111111111
+[2026-03-23 18:52:37] CARD | IP: 127.0.0.1 | CC: 4111 1111 1111 1111 | Exp: 12/22 | CVV: 6545
+[2026-03-23 18:52:44] SMS | IP: 127.0.0.1 | OTP: 654564566 | Card: 4111 1111 1111 1111
+[2026-03-23 19:02:42] BILLING | IP: 127.0.0.1 | Name: amine refinuio | Address: Carrer de les Hortes
+[2026-03-23 19:03:35] BILLING | IP: 127.0.0.1 | Name: amine refinuio | Address: Carrer de les Hortes
+[2026-03-23 19:04:48] BILLING | IP: 127.0.0.1 | Name: amine refinuio | Address: Carrer de les Hortes
+[2026-03-23 19:05:47] BILLING | IP: 127.0.0.1 | Name: amine refinuio | Address: Carrer de les Hortes
+[2026-03-23 19:11:53] BILLING | IP: 127.0.0.1 | Name: mastercarde | Address: 41111111111111111111111111111111111111
+[2026-03-23 19:14:51] CARD | IP: 127.0.0.1 | CC: 4111 1111 1111 1111 | Exp: 12/27 | CVV: 564
+[2026-03-24 23:15:45] BILLING | IP: 127.0.0.1 | Name: amine refinuio | Address: Carrer de les Hortes
+[2026-03-24 23:16:19] BILLING | IP: 127.0.0.1 | Name: amine refinuio | Address: Carrer de les Hortes
+[2026-03-24 23:18:13] BILLING | IP: 127.0.0.1 | Name: amine refinuio | Address: Carrer de les Hortes
+[2026-03-24 23:22:09] BILLING | IP: 127.0.0.1 | Name: amine refinuio | Address: Carrer de les Hortes
+[2026-03-24 23:22:44] CARD | IP: 127.0.0.1 | CC: 5539620039489350 | Exp: 12/31 | CVV: 919
+[2026-03-24 23:23:16] BILLING | IP: 127.0.0.1 | Name: amine refinuio | Address: Carrer de les Hortes
+[2026-03-24 23:23:39] CARD | IP: 127.0.0.1 | CC: 5539 6200 3948 9350 | Exp: 12/31 | CVV: 919
